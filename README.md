@@ -29,7 +29,7 @@ Vancouver) outperform single-flight routes.
 - Crew contribution significantly impacts the sales
 performance on top routes.
 
-#Sales by Route
+# Sales by Route
 Visual: Clustered Bar Chart
 
 Key Metrics:
@@ -58,7 +58,7 @@ Insights:
 - Fragrances perform well but show variability across routes.
 - Watches and Electronics lag behind, indicating low demand.
 
-#Sales Per Flight by Route
+# Sales Per Flight by Route
 Visual: Clustered Column Chart
 
 Key Metrics:
@@ -71,7 +71,7 @@ Insights:
 - Vancouver has untapped sales potential despite its higher flight frequency.
 
 
-#Pax vs Crew Sales
+# Pax vs Crew Sales
 Visual: Stacked Bar Chart
 
 Key Metrics:
