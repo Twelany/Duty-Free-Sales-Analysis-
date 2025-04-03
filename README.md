@@ -7,12 +7,12 @@ Purpose: Present trends and insights from sales data across five routes and prov
 
 # Objectives
 Goals:
-• Analyze sales trends across five routes (Abuja, Barbados,
+- Analyze sales trends across five routes (Abuja, Barbados,
 Dubai, Los Angeles, Vancouver) for November, December,
 and January.
-• Understand the sales mix between Passenger (Pax) and Crew
+- Understand the sales mix between Passenger (Pax) and Crew
 contributions.
-• Evaluate product performance by category and overall sales
+- Evaluate product performance by category and overall sales
 efficiency.
-• Provide data-driven recommendations to improve inventory
+- Provide data-driven recommendations to improve inventory
 allocation, sales strategies, and route-specific focus.
